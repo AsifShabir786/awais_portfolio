@@ -25,13 +25,13 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane style={{background:"cyan"}}>
-I am senior React js/Next.js developer with 3 + years experience              <br />
-           I works as Senior Next js developer at DevForHealth,Islamabad
+I am senior React js/Next.js and Node js developer with 6 + years experience              <br />
+           I works as Senior MERN Stack developer at UPTREE TECHNOLOGIES LTD,London 
              
             <br />
-            Also works as node js developer as Freelancer
+            {/* Also works as node js developer as Freelancer */}
             <br />
-            MERN Stack Developer
+           <span className="ml-8 text-muted">Full Stack Developer</span> 
           </spane>
           <Link to="'https://wa.me/+923105321069'" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>

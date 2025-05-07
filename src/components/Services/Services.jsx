@@ -133,7 +133,7 @@ const Services = () => {
     >
       <a
         className="nav-link text-light"
-        href="https://petite-vase.surge.sh"
+        href="https://saloonshop.vercel.app/"
       >
         <Card
           emoji={HeartEmoji}

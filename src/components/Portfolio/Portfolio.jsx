@@ -20,23 +20,24 @@ const Portfolio = () => {
   <span className="text-muted text11">
     Our client projects are highly confidential and protected by login credentials. To access these exclusive insights and resources, access exclusive client projects by logging in with my test credentials. Company/Clients privacy is my priority. Thank you for your understanding and cooperation.
     <br/>
-    <span class="text-muted textt" style={{textAlign: 'center', display: 'block', margin: '0 auto',marginTop:"1rem"}}>"Credentials will be provided as per requirement"</span>
+    <span class="text-muted textt" style={{textAlign: 'center', display: 'block', margin: '0 auto',marginTop:"1rem"}}></span>
   </span>
 </div>
 
 
   <div className="bodys" style={{borderRadius:'50px',height:"auto"}}>
-  <a href='https://ottomon-bed-uk.vercel.app/beds/DoubleBeds'>
+  <a href='https://wvexx.com/'>
 
 <div class="card-wrap bbbb">
 <div class="card-header one" style={{ height: '200px' }}>
-  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1725782024/uj71by0airoukhnu8ngv.png' style={{ width: '100%', height: '100%' }} />
+  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1746577369/image_1_-pica_zsgzzy.png' style={{ width: '100%', height: '100%' }} />
 </div>
 <div class="card-content">
-  <h1 class="card-title">Ecommerce Shop in Next.js and Node Project</h1>
-  <p class="card-text">Used Tailwind css,html,css3,next.js and i added
+  <h1 class="card-title">Stock Market Data (AAPL)
+  in Next.js and Node Project</h1>
+  <p class="card-text">Used Tailwind css,html,css3,next.js and nides and i added
   link of project here.</p>
-  <a href='https://ottomon-bed-uk.vercel.app/beds/DoubleBeds'>
+  <a href='https://wvexx.com/'>
     <button class="card-btn one">Click</button>
   </a>
 </div>
@@ -71,7 +72,7 @@ const Portfolio = () => {
   </div>
 </div>
 </a>
-<a href='https://petite-vase.surge.sh'> 
+<a href='https://saloonshop.vercel.app/'> 
 <div class="card-wrap">
   <div class="card-header three">
   <img src='https://res.cloudinary.com/alpja/image/upload/v1704651644/ueg5qjvk46j6jhqofvfu.png' alt="" style={{ width: '100%', height: '100%' }} />
@@ -80,7 +81,7 @@ const Portfolio = () => {
     <h1 class="card-title">Saloon Shop/Services website in React js and Node js</h1>
     <p class="card-text">A React js project
     with bootstrap5 and some animations click below to view</p>
-    <a href='https://petite-vase.surge.sh'> <button class="card-btn three">Click</button></a>
+    <a href='https://saloonshop.vercel.app/'> <button class="card-btn three">Click</button></a>
  </div>
 </div></a>
 <a href='https://medassist.devforhealth.com/'> 

@@ -34,14 +34,14 @@ const Intro = () => {
 
 
           <span style={{ color: darkMode ? "white" : "white" }}>Hy! I Am</span>
-     <h3 className="animate-charcter">Ehtesham Ali</h3>
+     <h3 className="animate-charcter">Asif Shabir</h3>
            <span style={{fontWeight:'bold',color:"cyan"}}>
 
 
 
-     <span class="title-word title-word-1">Senior Frontend Developer</span>
+     <span class="title-word title-word-1">Senior Full Stack Developer</span>
     <span class="title-word title-word-2"> with</span>
-    <span class="title-word title-word-3"> 3 years experience</span>
+    <span class="title-word title-word-3"> 6 years experience</span>
     <span class="title-word title-word-4"> Next.js React</span>
   
 
