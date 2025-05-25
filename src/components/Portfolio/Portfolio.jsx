@@ -97,16 +97,16 @@ const Portfolio = () => {
  </div>
 </div>
 </a>
-<a href='https://dtt.devforhealth.com//'> 
+<a href='https://podstarz.net/'> 
 <div class="card-wrap">
   <div class="card-header four">
-  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1713245683/mngrpaatwjx0pbjisjg9.png' alt="" style={{ width: '100%', height: '100%' }} />
+  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1746661034/WhatsApp_Image_2025-05-07_at_4_34_21_PM-Picsart-AiImageEnhancer_rarbvc.png' alt="" style={{ width: '100%', height: '100%' }} />
   </div>
 
   <div class="card-content">
-    <h1 class="card-title">dtt in Next js, complete system for a hospital/Billing</h1>
-    <p class="card-text">This is complete Next js project and is syetem for a USA hospital link</p>
-    <a href='https://dtt.devforhealth.com/'> <button class="card-btn four">Click</button></a>
+    <h1 class="card-title">dtt in Next js and Node js complete system for a hospital/Billing EHR</h1>
+    <p class="card-text">This is complete Next js project and is syetem for a USA hospital EHR link</p>
+    <a href='https://podstarz.net/'> <button class="card-btn four">Click</button></a>
  </div>
 </div>
 </a>
@@ -115,12 +115,12 @@ const Portfolio = () => {
 <a href='https://app.silvercareagency.com/'> 
 <div class="card-wrap">
   <div class="card-header four">
-  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1713249233/Silvercare_h51ei1.png' alt="" style={{ width: '100%', height: '100%' }} />
+  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1746662333/WhatsApp_Image_2025-05-07_at_4.58.20_PM_npsopo.jpg' alt="" style={{ width: '100%', height: '100%' }} />
   </div>
 
   <div class="card-content">
-    <h1 class="card-title">silvercareagency in Next js is complete system for a hospital/billing </h1>
-    <p class="card-text">This is complete Next js project and is syetem for a USA silvercareAgency credintiol fro local will be shown per requirement</p>
+    <h1 class="card-title">silvercareagency in Next js complete system for a hospital/billing </h1>
+    <p class="card-text">This is complete Next js Node project and is syetem for a USA silvercareAgency credintiol from local will be shown per requirement</p>
     <a href='https://app.silvercareagency.com/'> <button class="card-btn four">Click</button></a>
  </div>
 </div>

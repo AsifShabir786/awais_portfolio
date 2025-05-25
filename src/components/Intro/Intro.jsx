@@ -42,12 +42,12 @@ const Intro = () => {
      <span class="title-word title-word-1">Senior Full Stack Developer</span>
     <span class="title-word title-word-2"> with</span>
     <span class="title-word title-word-3"> 6 years experience</span>
-    <span class="title-word title-word-4"> Next.js React</span>
+    <span class="title-word title-word-4"> Next.js React js Node</span>
   
 
           </span>
         </div>
-        <a href="https://wa.me/+923105321069" smooth={true} spy={true}>
+        <a href="https://wa.me/+447427544122" smooth={true} spy={true}>
           <button className="button i-button">Hire me</button>
         </a>
         {/* social icons */}
@@ -100,7 +100,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="React js" text2="Nextjs" />
+          <FloatinDiv img={thumbup} text1="React js Next.js" text2=" Node js Express js" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
