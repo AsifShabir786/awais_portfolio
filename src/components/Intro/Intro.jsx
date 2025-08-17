@@ -42,7 +42,7 @@ const Intro = () => {
      <span class="title-word title-word-1">Senior Full Stack Developer</span>
     <span class="title-word title-word-2"> with</span>
     <span class="title-word title-word-3"> 6 years experience</span>
-    <span class="title-word title-word-4"> Next.js React js Node</span>
+    <span class="title-word title-word-4 fw-bold"> Next.js React js Node Nest Express Python Django-Flask</span>
   
 
           </span>
@@ -54,17 +54,17 @@ const Intro = () => {
         <div className="i-icons">
         <a
                   className="nav-link text-light"
-                  href="https://github.com/Ehteshambutt"
+                  href="https://github.com/AsifShabir786"
                 > <img src={Github} alt="" /></a>
           {/* <img src={Github} alt="" /> */}
           <a
                   className="nav-link text-light"
-                  href="https://www.linkedin.com/in/ehtesham-butt-837200162/"
+                  // href="https://www.linkedin.com/in/ehtesham-butt-837200162/"
                 > <img src={LinkedIn} alt="" /></a>
           
           <a
                   className="nav-link text-light"
-                  href="https://www.instagram.com/ehteshambutt58/"
+                  // href="https://www.instagram.com/ehteshambutt58/"
                 >   <img src={Instagram} alt="" /></a>
         
         </div>
@@ -73,7 +73,7 @@ const Intro = () => {
       <div className="i-right crwn1">
         <img src={Vector1} alt="" />
         <img src={Vector2} alt="" />
-        <img src={boy} alt="" />
+        {/* <img src={boy} alt="" /> */}
         {/* animation */}
         <motion.img
           initial={{ left: "-36%" }}
@@ -100,7 +100,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="React js Next.js" text2=" Node js Express js" />
+          <FloatinDiv img={thumbup} text1="React js Next.js" text2=" Node js Express js Python" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>

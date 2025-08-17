@@ -34,8 +34,8 @@ const Portfolio = () => {
 </div>
 <div class="card-content">
   <h1 class="card-title">Stock Market Data (AAPL)
-  in Next.js and Node Project</h1>
-  <p class="card-text">Used Tailwind css,html,css3,next.js and nides and i added
+  in React.js and Node Project</h1>
+  <p class="card-text">Used React.js and Node Tailwind css,html,css3 and i added
   link of project here.</p>
   <a href='https://wvexx.com/'>
     <button class="card-btn one">Click</button>
@@ -64,8 +64,8 @@ const Portfolio = () => {
     <img src='https://res.cloudinary.com/alpja/image/upload/v1702752592/vffs7bx9yrfsk98aorz9.png' alt="" style={{ width: '100%', height: '100%' }} />
   </div>
   <div class="card-content">
-    <h1 class="card-title">doingthistogether, a complete hospital system in Next/Reactjs</h1>
-    <p class="card-text">I used React js and next js for it with Materail UI and many more functionalties</p>
+    <h1 class="card-title">doingthistogether, a complete hospital system in Next/Reactjs/Node</h1>
+    <p class="card-text">I used React js and Node js for it with Materail UI and many more functionalties</p>
     <a href='https://tech.doingthistogether.com/login'>
       <button class="card-btn two">Click</button>
     </a>
@@ -78,7 +78,7 @@ const Portfolio = () => {
   <img src='https://res.cloudinary.com/alpja/image/upload/v1704651644/ueg5qjvk46j6jhqofvfu.png' alt="" style={{ width: '100%', height: '100%' }} />
   </div>
   <div class="card-content">
-    <h1 class="card-title">Saloon Shop/Services website in React js and Node js</h1>
+    <h1 class="card-title">Saloon Shop/Services website in React js and Nest js Node</h1>
     <p class="card-text">A React js project
     with bootstrap5 and some animations click below to view</p>
     <a href='https://saloonshop.vercel.app/'> <button class="card-btn three">Click</button></a>
@@ -91,8 +91,8 @@ const Portfolio = () => {
   </div>
 
   <div class="card-content">
-    <h1 class="card-title">medassist in Next.js a complete hospital System</h1>
-    <p class="card-text">This is complete Next js project and is syetem for a USA hospital link </p>
+    <h1 class="card-title">medassist in React.js a complete hospital System</h1>
+    <p class="card-text">This is complete React js Django project and is syetem for a USA hospital link </p>
     <a href='https://medassist.devforhealth.com/'> <button class="card-btn four">Click</button></a>
  </div>
 </div>
@@ -104,7 +104,7 @@ const Portfolio = () => {
   </div>
 
   <div class="card-content">
-    <h1 class="card-title">dtt in Next js and Node js complete system for a hospital/Billing EHR</h1>
+    <h1 class="card-title">dtt in Next js and Django complete system for a hospital/Billing EHR</h1>
     <p class="card-text">This is complete Next js project and is syetem for a USA hospital EHR link</p>
     <a href='https://podstarz.net/'> <button class="card-btn four">Click</button></a>
  </div>

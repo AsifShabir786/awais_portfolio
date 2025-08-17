@@ -42,7 +42,7 @@
 .bodys{
   font-family: 'Roboto', sans-serif;
   background: linear-gradient(to right, var(--main-gradient-color1), var(--main-gradient-color2), var(--main-gradient-color3), var(--main-gradient-color4)); 
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -54,7 +54,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Adjust the height based on your design */
+  height: auto; /* Adjust the height based on your design */
 }
 
 .center-text2 span {

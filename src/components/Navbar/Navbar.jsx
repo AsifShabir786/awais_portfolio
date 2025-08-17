@@ -46,8 +46,8 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <a href="https://wa.me/+447427544122" spy={true} smooth={true}>
-  <button className="button n-button d-none ddd d-lg-block">Call : 07427544122</button>
+        <a href="https://wa.me/+447423348466" spy={true} smooth={true}>
+  <button className="button n-button d-none ddd d-lg-block">Call : 07723348466</button>
 </a>
 
       </div>
