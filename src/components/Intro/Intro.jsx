@@ -34,7 +34,7 @@ const Intro = () => {
 
 
           <span style={{ color: darkMode ? "white" : "white" }}>Hy! I Am</span>
-     <h3 className="animate-charcter">Asif Shabbir</h3>
+     <h3 className="animate-charcter">Awais </h3>
            <span style={{fontWeight:'bold',color:"cyan"}}>
 
 
@@ -54,7 +54,7 @@ const Intro = () => {
         <div className="i-icons">
         <a
                   className="nav-link text-light"
-                  href="https://github.com/AsifShabir786"
+                  href="https://github.com/AwaisShabir786"
                 > <img src={Github} alt="" /></a>
           {/* <img src={Github} alt="" /> */}
           <a

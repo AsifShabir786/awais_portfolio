@@ -43,7 +43,7 @@ const Footer = () => {
                     backgroundClip: "text",
                   }}
                 >
-                  Asif Shabbir
+                  Awais 
                 </span>
               </h3>
               <p className="text-light mb-4 lh-lg">
@@ -57,13 +57,13 @@ const Footer = () => {
               <div className="d-flex align-items-center text-light">
                 <UilEnvelope size="20" className="text-primary me-2" />
                 <a
-                  href="mailto:asifshabbir607@gmail.com"
+                  href="mailto:Awais607@gmail.com"
                   className="text-decoration-none text-light"
                   style={{ transition: "color 0.3s ease" }}
                   onMouseEnter={(e) => (e.target.style.color = "#007bff")}
                   onMouseLeave={(e) => (e.target.style.color = "")}
                 >
-                  asifshabbir607@gmail.com
+                  Awais607@gmail.com
                 </a>
               </div>
             </div>
@@ -223,7 +223,7 @@ const Footer = () => {
               <div className="col-md-6 text-center text-md-end">
                 <div className="d-flex justify-content-center justify-content-md-end gap-3">
                   <a
-                    href="https://github.com/asifshabbir"
+                    href="https://github.com/Awais"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-light btn-sm rounded-circle p-2"
@@ -245,7 +245,7 @@ const Footer = () => {
                     <UilGithub size="20" />
                   </a>
                   <a
-                    href="https://linkedin.com/in/asifshabbir"
+                    href="https://linkedin.com/in/Awais"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-light btn-sm rounded-circle p-2"
@@ -267,7 +267,7 @@ const Footer = () => {
                     <UilLinkedin size="20" />
                   </a>
                   <a
-                    href="https://twitter.com/asifshabbir"
+                    href="https://twitter.com/Awais"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-light btn-sm rounded-circle p-2"
@@ -289,7 +289,7 @@ const Footer = () => {
                     <UilTwitter size="20" />
                   </a>
                   <a
-                    href="https://instagram.com/asifshabbir"
+                    href="https://instagram.com/Awais"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-light btn-sm rounded-circle p-2"
@@ -311,7 +311,7 @@ const Footer = () => {
                     <UilInstagram size="20" />
                   </a>
                   <a
-                    href="mailto:asifshabbir607@gmail.com"
+                    href="mailto:Awais607@gmail.com"
                     className="btn btn-outline-light btn-sm rounded-circle p-2"
                     style={{
                       width: "40px",
@@ -338,7 +338,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="border-top border-secondary mt-4 pt-4 text-center">
             <p className="text-muted small mb-1">
-              © {new Date().getFullYear()} Asif Shabbir. All rights reserved. Built with React & Next.js
+              © {new Date().getFullYear()} Awais . All rights reserved. Built with React & Next.js
             </p>
             <p className="text-muted small mb-0">
               Crafted with <span className="text-danger">❤️</span> for amazing web experiences

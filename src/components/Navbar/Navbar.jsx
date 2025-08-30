@@ -12,7 +12,7 @@ const Navbar = () => {
       {/* left */}
       <div className="n-left">
         
-        <span className="n-name button i-button2">Asif</span>
+        <span className="n-name button i-button2">Awais</span>
         <Toggle />
       </div>
       {/* right */}
