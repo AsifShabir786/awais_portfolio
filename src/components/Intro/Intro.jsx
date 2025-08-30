@@ -34,7 +34,7 @@ const Intro = () => {
 
 
           <span style={{ color: darkMode ? "white" : "white" }}>Hy! I Am</span>
-     <h3 className="animate-charcter">Asif Shabir</h3>
+     <h3 className="animate-charcter">Asif Shabbir</h3>
            <span style={{fontWeight:'bold',color:"cyan"}}>
 
 
@@ -42,7 +42,7 @@ const Intro = () => {
      <span class="title-word title-word-1">Senior Full Stack Developer</span>
     <span class="title-word title-word-2"> with</span>
     <span class="title-word title-word-3"> 6 years experience</span>
-    <span class="title-word title-word-4 fw-bold"> Next.js React js Node Nest Express Python Django-Flask</span>
+    <span class="title-word title-word-4 fw-bold"> Next.js React js Node Nest Express</span>
   
 
           </span>
@@ -100,7 +100,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="React js Next.js" text2=" Node js Express js Python" />
+          <FloatinDiv img={thumbup} text1="React js Next.js" text2=" Node js Express js " />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>

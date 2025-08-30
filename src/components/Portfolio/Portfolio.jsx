@@ -1,10 +1,14 @@
 import React, { useContext } from "react";
 import "./Portfolio.css";
+
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
 import Sidebar from "../../img/sidebar.png";
+
 import c from "../../img/c.PNG";
 import restorent from "../../img/restorent.PNG";
+import legalpro from "../../img/legalpro.png";
+
 
 import HOC from "../../img/hoc.png";
 
@@ -26,22 +30,24 @@ const Portfolio = () => {
 
 
   <div className="bodys" style={{borderRadius:'50px',height:"auto"}}>
-  <a href='https://wvexx.com/'>
+  
+<a href='https://legalpro-law-assistant-xqou.vercel.app/'>
 
 <div class="card-wrap bbbb">
 <div class="card-header one" style={{ height: '200px' }}>
-  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1746577369/image_1_-pica_zsgzzy.png' style={{ width: '100%', height: '100%' }} />
+  <img src={legalpro} style={{ width: '100%', height: '100%' }} />
 </div>
 <div class="card-content">
-  <h1 class="card-title">Stock Market Data (AAPL)
+  <h1 class="card-title">Legal Pro for law firm
   in React.js and Node Project</h1>
   <p class="card-text">Used React.js and Node Tailwind css,html,css3 and i added
   link of project here.</p>
-  <a href='https://wvexx.com/'>
+  <a href='https://legalpro-law-assistant-xqou.vercel.app/'>
     <button class="card-btn one">Click</button>
   </a>
 </div>
-</div></a>
+</div>
+</a>
   <a href='https://welcome.doingthistogether.com/MainScreen'>
 
   <div class="card-wrap bbbb">
@@ -49,8 +55,8 @@ const Portfolio = () => {
     <img src='https://res.cloudinary.com/alpja/image/upload/v1702752171/e7dslq84hzg0wdxyyvyp.png' style={{ width: '100%', height: '100%' }} />
   </div>
   <div class="card-content">
-    <h1 class="card-title">Medical Test System for Hospital in React.js</h1>
-    <p class="card-text">Used bootstrap5,html,css3 with react js and i added
+    <h1 class="card-title">Medical Test System for Hospital in React.js Node js</h1>
+    <p class="card-text">Used bootstrap5,html,css3 with react js Node js and i added
     link of project here.</p>
     <a href='https://welcome.doingthistogether.com/MainScreen'>
       <button class="card-btn one">Click</button>
@@ -92,7 +98,7 @@ const Portfolio = () => {
 
   <div class="card-content">
     <h1 class="card-title">medassist in React.js a complete hospital System</h1>
-    <p class="card-text">This is complete React js Django project and is syetem for a USA hospital link </p>
+    <p class="card-text">This is complete React js Node project and is syetem for a USA hospital link </p>
     <a href='https://medassist.devforhealth.com/'> <button class="card-btn four">Click</button></a>
  </div>
 </div>
@@ -104,7 +110,7 @@ const Portfolio = () => {
   </div>
 
   <div class="card-content">
-    <h1 class="card-title">dtt in Next js and Django complete system for a hospital/Billing EHR</h1>
+    <h1 class="card-title">dtt in Next js and Node complete system for a hospital/Billing EHR</h1>
     <p class="card-text">This is complete Next js project and is syetem for a USA hospital EHR link</p>
     <a href='https://podstarz.net/'> <button class="card-btn four">Click</button></a>
  </div>
